@@ -55,3 +55,15 @@ NumPy-Practice/
 │
 ├── README.md
 └── practice_numpy.ipynb
+
+🛠️ Technologies Used
+Python
+NumPy
+Jupyter Notebook
+🎯 Purpose
+
+The purpose of this practice is to strengthen my understanding of NumPy arrays and prepare for data analysis and machine learning applications.
+
+📈 Learning Progress
+
+This notebook represents my hands-on practice with NumPy, starting from basic array creation and indexing and progressing to feature processing, matrix operations, image arrays, and machine learning-related calculations.
