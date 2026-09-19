@@ -48,6 +48,20 @@ The practice notebook contains 20 NumPy exercises covering fundamental and pract
 - Matrix multiplication using `@`
 - Understanding the difference between `*` and `@`
 
+  
+## 🛠️ Technologies Used
+Python
+NumPy
+Jupyter Notebook
+## 🎯 Purpose
+
+The purpose of this practice is to strengthen my understanding of NumPy arrays and prepare for data analysis and machine learning applications.
+
+## 📈 Learning Progress
+
+This notebook represents my hands-on practice with NumPy, starting from basic array creation and indexing and progressing to feature processing, matrix operations, image arrays, and machine learning-related calculations.
+
+
 ## 📂 File
 
 ```text
@@ -56,14 +70,3 @@ NumPy-Practice/
 ├── README.md
 └── practice_numpy.ipynb
 
-🛠️ Technologies Used
-Python
-NumPy
-Jupyter Notebook
-🎯 Purpose
-
-The purpose of this practice is to strengthen my understanding of NumPy arrays and prepare for data analysis and machine learning applications.
-
-📈 Learning Progress
-
-This notebook represents my hands-on practice with NumPy, starting from basic array creation and indexing and progressing to feature processing, matrix operations, image arrays, and machine learning-related calculations.
